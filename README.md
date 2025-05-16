@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/yourusername/yourusername/blob/main/![thượng hải](https://github.com/user-attachments/assets/6490b6ce-0ecc-4a31-bcb1-3510ec923729)" alt="banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm jayjen-dib | 你好，我是 jayjen-dib！</h1>
