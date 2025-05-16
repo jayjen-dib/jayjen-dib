@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi there 👋 I'm jayjen-dib | 你好，我是 jayjen-dib！</h1>
 
 <p align="center">
