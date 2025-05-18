@@ -58,8 +58,7 @@ I'm currently studying **Computer Science** at Everett Community College (EvCC),
 📧 Email: jaytran0628@gmail.com  
 🌐 Website: [yourportfolio.vercel.app](https://yourportfolio.vercel.app)  
 🐙 GitHub: [github.com/jayjen-dib](https://github.com/jayjen-dib)  
-💼 LinkedIn: [linkedin.com/in/jayjen-dib](https://linkedin.com/in/jayjen-dib)  
-</p>
+💼 LinkedIn: https://www.linkedin.com/in/jay-jen-024143366/
 
 ---
 
